@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey there! 👋 I am Anvesh Kumar</h1>
+<h1 align="center">I am Anvesh Kumar Chavidi</h1>
 
 🎓 Master's Student in Data Science at San Jose State University  
 💼 Former Analytics Engineer at Tech Mahindra | Data Analyst at Temenos  
@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 ---
 
 ## 🚀 Technical Skills
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🧠 Machine Learning & AI
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)
@@ -108,16 +114,20 @@ Here are some ideas to get you started:
 ## 📚 Projects
 
 - **Specializing in LLMs using Chain of Thought Reasoning**  
-  Developed RAG + CoT pipelines with LangChain, LangGraph, Hugging Face Transformers, LoRA fine-tuning; optimized with BERTScore and G-Eval.
+  • Developed an intelligent system integrating CoT reasoning for improved LLMs in the education domain with step-by-step explanations, using LoRA and QLoRA fine-tuning on models with Apache Airflow and Chroma DB for data pipeline orchestration, retrieval-based augmentation.
+  • Deployed a RAG-integrated chat interface to enhance usability, evaluated using BLEU and ROUGE metrics, and hosted models via AWS (SageMaker, Lambda), Hugging Face, and GCP Vertex AI for scalable performance.
 
 - **Transformer-Based NLP for QA**  
-  Fine-tuned BERT for question answering and summarization; used MLflow for deployment and evaluation.
+  • Applied supervised learning, including classification on time-series data to predict problematic internet use, using Python, ML frameworks like Scikit-learn, and managed models using MLFlow for versioning and MLOps practices.
+  • Engineered time-series features, using unsupervised learning to identify patterns, evaluated model performance with QWK, and deployed models with Kubeflow for scalable management, storing data in Parquet for optimized performance.
 
 - **Predicting Problematic Internet Use**  
-  Built time-series models with Scikit-learn; visualized behavior patterns in Power BI for actionable insights.
+  • Applied supervised learning, including classification on time-series data to predict problematic internet use, using Python, ML frameworks like Scikit-learn, and managed models using MLFlow for versioning and MLOps practices.
+  • Engineered time-series features, using unsupervised learning to identify patterns, evaluated model performance with QWK, and deployed models with Kubeflow for scalable management, storing data in Parquet for optimized performance.
 
 - **Healthcare Appointment Management System**  
-  Built backend in Python + MySQL; automated deployment via Terraform/Jenkins; tracked KPIs via dashboards.
+  • Developed an end-to-end system with Python-GUI for UI design and MySQL for data management, enabling appointment bookings and access to prescriptions and medical records.
+  • Optimized data pipelines with ETL processes and leveraged Python libraries to monitor KPIs. Utilized SQL, PostgreSQL, and Tableau for efficient data storage and insights with quantitative analysis.
 
 ---
 
@@ -125,7 +135,7 @@ Here are some ideas to get you started:
 
 **San Jose State University**  
 *M.S. in Data Science (2023 – 2025)*  
-Relevant coursework: Machine Learning, Data Mining, Deep Learning, Big Data, Data Visualization
+Relevant coursework: Probability and Statistics, Database Management, Data Visualization, Big Data, Machine Learning and algorithms, Data Mining, Deep Learning
 
 ---
 
@@ -138,4 +148,4 @@ Relevant coursework: Machine Learning, Data Mining, Deep Learning, Big Data, Dat
 
 ## 📫 Let's Connect
 
-🔗 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/anvesh-kumar-chavidi-4522371b5/)) 
+🔗 [LinkedIn]([[https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/anvesh-kumar-chavidi-4522371b5/)]) 
