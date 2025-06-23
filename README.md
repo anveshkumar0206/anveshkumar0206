@@ -32,6 +32,38 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### 📊 Visualization Tools
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge)
+![QuickSight](https://img.shields.io/badge/QuickSight-FF9900?style=for-the-badge)
+![Kibana](https://img.shields.io/badge/Kibana-FE4080?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge)
+
+### 💾 Databases & Data Engineering
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
+![NoSQL](https://img.shields.io/badge/NoSQL-43A047?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-00ACC1?style=for-the-badge)
+![ELT](https://img.shields.io/badge/ELT-00838F?style=for-the-badge)
+![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-4CAF50?style=for-the-badge)
+![Spark](https://img.shields.io/badge/Spark-F75C03?style=for-the-badge)
+![Hadoop](https://img.shields.io/badge/Hadoop-66BB6A?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-4DB6AC?style=for-the-badge)
+
+### ☁️ Cloud & MLOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-FF6F00?style=for-the-badge)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-3E50B4?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-003366?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-673AB7?style=for-the-badge)
+
 ### 🧠 Machine Learning & AI
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge)
@@ -61,38 +93,6 @@ Here are some ideas to get you started:
 ![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-4E342E?style=for-the-badge)
 ![BERTScore](https://img.shields.io/badge/BERTScore-9C27B0?style=for-the-badge)
 ![G-Eval](https://img.shields.io/badge/G--Eval-3949AB?style=for-the-badge)
-
-### 💾 Databases & Data Engineering
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
-![NoSQL](https://img.shields.io/badge/NoSQL-43A047?style=for-the-badge)
-![ETL](https://img.shields.io/badge/ETL-00ACC1?style=for-the-badge)
-![ELT](https://img.shields.io/badge/ELT-00838F?style=for-the-badge)
-![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-4CAF50?style=for-the-badge)
-![Spark](https://img.shields.io/badge/Spark-F75C03?style=for-the-badge)
-![Hadoop](https://img.shields.io/badge/Hadoop-66BB6A?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-4DB6AC?style=for-the-badge)
-
-### ☁️ Cloud & MLOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-FF6F00?style=for-the-badge)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge)
-![Kubeflow](https://img.shields.io/badge/Kubeflow-3E50B4?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge)
-![MLflow](https://img.shields.io/badge/MLflow-003366?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/MLOps-673AB7?style=for-the-badge)
-
-### 📊 Visualization Tools
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge)
-![QuickSight](https://img.shields.io/badge/QuickSight-FF9900?style=for-the-badge)
-![Kibana](https://img.shields.io/badge/Kibana-FE4080?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge)
 
 ### 🛠️ Other Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
