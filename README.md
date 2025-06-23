@@ -113,21 +113,21 @@ Here are some ideas to get you started:
 
 ## 📚 Projects
 
-- **Specializing in LLMs using Chain of Thought Reasoning**  
-  • Developed an intelligent system integrating CoT reasoning for improved LLMs in the education domain with step-by-step explanations, using LoRA and QLoRA fine-tuning on models with Apache Airflow and Chroma DB for data pipeline orchestration, retrieval-based augmentation.
-  • Deployed a RAG-integrated chat interface to enhance usability, evaluated using BLEU and ROUGE metrics, and hosted models via AWS (SageMaker, Lambda), Hugging Face, and GCP Vertex AI for scalable performance.
+**Specializing in LLMs using Chain of Thought Reasoning**  
+  - Developed an intelligent system integrating CoT reasoning for improved LLMs in the education domain with step-by-step explanations, using LoRA and QLoRA fine-tuning on models with Apache Airflow and Chroma DB for data pipeline orchestration, retrieval-based augmentation.
+  - Deployed a RAG-integrated chat interface to enhance usability, evaluated using BLEU and ROUGE metrics, and hosted models via AWS (SageMaker, Lambda), Hugging Face, and GCP Vertex AI for scalable performance.
 
-- **Transformer-Based NLP for QA**  
-  • Applied supervised learning, including classification on time-series data to predict problematic internet use, using Python, ML frameworks like Scikit-learn, and managed models using MLFlow for versioning and MLOps practices.
-  • Engineered time-series features, using unsupervised learning to identify patterns, evaluated model performance with QWK, and deployed models with Kubeflow for scalable management, storing data in Parquet for optimized performance.
+**Transformer-Based NLP for QA**  
+  - Applied supervised learning, including classification on time-series data to predict problematic internet use, using Python, ML frameworks like Scikit-learn, and managed models using MLFlow for versioning and MLOps practices.
+  - Engineered time-series features, using unsupervised learning to identify patterns, evaluated model performance with QWK, and deployed models with Kubeflow for scalable management, storing data in Parquet for optimized performance.
 
-- **Predicting Problematic Internet Use**  
-  • Applied supervised learning, including classification on time-series data to predict problematic internet use, using Python, ML frameworks like Scikit-learn, and managed models using MLFlow for versioning and MLOps practices.
-  • Engineered time-series features, using unsupervised learning to identify patterns, evaluated model performance with QWK, and deployed models with Kubeflow for scalable management, storing data in Parquet for optimized performance.
+**Predicting Problematic Internet Use**  
+  - Applied supervised learning, including classification on time-series data to predict problematic internet use, using Python, ML frameworks like Scikit-learn, and managed models using MLFlow for versioning and MLOps practices.
+  - Engineered time-series features, using unsupervised learning to identify patterns, evaluated model performance with QWK, and deployed models with Kubeflow for scalable management, storing data in Parquet for optimized performance.
 
-- **Healthcare Appointment Management System**  
-  • Developed an end-to-end system with Python-GUI for UI design and MySQL for data management, enabling appointment bookings and access to prescriptions and medical records.
-  • Optimized data pipelines with ETL processes and leveraged Python libraries to monitor KPIs. Utilized SQL, PostgreSQL, and Tableau for efficient data storage and insights with quantitative analysis.
+**Healthcare Appointment Management System**  
+  - Developed an end-to-end system with Python-GUI for UI design and MySQL for data management, enabling appointment bookings and access to prescriptions and medical records.
+  - Optimized data pipelines with ETL processes and leveraged Python libraries to monitor KPIs. Utilized SQL, PostgreSQL, and Tableau for efficient data storage and insights with quantitative analysis.
 
 ---
 
@@ -148,4 +148,4 @@ Relevant coursework: Probability and Statistics, Database Management, Data Visua
 
 ## 📫 Let's Connect
 
-🔗 [LinkedIn]([[https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/anvesh-kumar-chavidi-4522371b5/)]) 
+🔗 [LinkedIn](https://www.linkedin.com/in/anvesh-kumar-chavidi-4522371b5/)
