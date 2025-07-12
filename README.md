@@ -35,15 +35,11 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
-
 ### 📊 Visualization  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)  
 ![QuickSight](https://img.shields.io/badge/QuickSight-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
-
----
 
 ### 🛠️ Data Engineering  
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
@@ -53,16 +49,12 @@ Here are some ideas to get you started:
 ![Spark](https://img.shields.io/badge/Spark-F75C03?style=for-the-badge&logo=apache-spark&logoColor=white)  
 ![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-4CAF50?style=for-the-badge)
 
----
-
 ### 🤖 ML & AI  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![MLflow](https://img.shields.io/badge/MLflow-003366?style=for-the-badge)  
 ![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-F06292?style=for-the-badge)
-
----
 
 ### ☁️ Cloud & MLOps  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
@@ -72,8 +64,6 @@ Here are some ideas to get you started:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
----
-
 ### 📚 NLP & LLMs  
 ![Transformers](https://img.shields.io/badge/Transformers-FFA000?style=for-the-badge)  
 ![BERT](https://img.shields.io/badge/BERT-FFB300?style=for-the-badge)  
@@ -81,8 +71,6 @@ Here are some ideas to get you started:
 ![RAG](https://img.shields.io/badge/RAG-4E342E?style=for-the-badge)  
 ![Text Mining](https://img.shields.io/badge/Text%20Mining-FF8F00?style=for-the-badge)  
 ![NLP](https://img.shields.io/badge/NLP-FF7043?style=for-the-badge)
-
----
 
 ### 🧰 Other Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
